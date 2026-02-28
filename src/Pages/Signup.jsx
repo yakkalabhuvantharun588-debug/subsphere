@@ -21,7 +21,7 @@ export default function Signup(){
   return(
 
     <div className="auth-page">
-      <div className="auth-card">
+      <div className="auth-form">
       <h2>Signup</h2>
 
       <input
